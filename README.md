@@ -144,16 +144,22 @@ I don't just write code — I build **systems that make an impact**:
 
 <div align="center">
 
-<img width="53%" src="https://github-readme-stats.vercel.app/api?username=pranav24547&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6b35&icon_color=ffd700&text_color=c9d1d9&ring_color=ff6b35&include_all_commits=true&count_private=true" alt="Stats"/><!--
---><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav24547&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=ff6b35&text_color=c9d1d9&langs_count=6" alt="Languages"/>
+<a href="https://github.com/pranav24547">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pranav24547&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6b35&icon_color=ffd700&text_color=c9d1d9&ring_color=ff6b35&include_all_commits=true&count_private=true" alt="Pranav's GitHub Stats"/>
+</a>
+<a href="https://github.com/pranav24547">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pranav24547&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=ff6b35&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
+</a>
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav24547&hide_border=true&background=0d1117&stroke=ff6b35&ring=ffd700&fire=ff6b35&currStreakLabel=ffd700&sideLabels=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="Streak"/>
+<a href="https://github.com/pranav24547">
+  <img width="60%" src="https://streak-stats.demolab.com?user=pranav24547&hide_border=true&background=0d1117&stroke=ff6b35&ring=ffd700&fire=ff6b35&currStreakLabel=ffd700&sideLabels=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak"/>
+</a>
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranav24547&hide_border=true&bg_color=0d1117&color=ff6b35&line=ffd700&point=ffffff&area=true&area_color=ff6b35" alt="Contribution Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranav24547&hide_border=true&bg_color=0d1117&color=ff6b35&line=ffd700&point=ffffff&area=true&area_color=ff6b35&custom_title=Pranav's%20Contribution%20Graph" alt="Contribution Graph"/>
 
 </div>
 
