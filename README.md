@@ -145,8 +145,8 @@ I don't just write code — I build **systems that make an impact**:
 <div align="center">
 
 <a href="https://github.com/pranav24547">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranav24547&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Pranav's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav24547&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranav24547&theme=radical" alt="Pranav's GitHub Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranav24547&theme=radical" alt="Top Languages"/>
 </a>
 
 <br/>
@@ -157,7 +157,7 @@ I don't just write code — I build **systems that make an impact**:
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav24547&theme=redical&hide_border=true&area=true" alt="Contribution Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav24547&theme=radical" alt="Contribution Graph"/>
 
 </div>
 
