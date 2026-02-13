@@ -44,7 +44,7 @@ I don't just write code — I build **systems that make an impact**:
 - 🎤 AI interviewer that evaluates your answers with GPT-4o
 - 👁️ Customer tracking that helps businesses grow
 
-> *"We have tomorrows for a reason"*
+> *"We have tomorrows for a reason"* — and I'm building them today.
 
 <br clear="right"/>
 
