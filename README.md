@@ -185,7 +185,7 @@ I don't just write code — I build **systems that make an impact**:
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20have%20tomorrows%20for%20a%20reason.&author=Pranav" alt="Quote"/>
+*"We have tomorrows for a reason"* — and I'm building them today.
 
 <br/><br/>
 
