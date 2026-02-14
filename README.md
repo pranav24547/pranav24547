@@ -136,7 +136,7 @@ I don't just write code — I build **systems that make an impact**:
 ![PHP](https://img.shields.io/badge/-PHP-0d1117?style=flat&logo=php)
 ![SQL](https://img.shields.io/badge/-SQL-0d1117?style=flat&logo=mysql)
 
----
+----
 
 <!-- ─── STATS ───────────────────────────────────────────────────── -->
 
