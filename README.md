@@ -79,7 +79,7 @@ I don't just write code — I build **systems that make an impact**:
 
 </details>
 
-<details>
+<details open>
 <summary><b>🌐 Full-Stack Web Apps</b></summary>
 <br/>
 
