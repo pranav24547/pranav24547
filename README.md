@@ -13,7 +13,7 @@
 [![GitHub](https://img.shields.io/badge/pranav24547-000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranav24547)
 [![LinkedIn](https://img.shields.io/badge/pranavthanavel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavthanavel/)
 ![Views](https://komarev.com/ghpvc/?username=pranav24547&style=flat-square&color=ff6b35&label=visitors)
-![Repos](https://img.shields.io/badge/public_repos-11-ffd700?style=flat-square)
+![Repos](https://img.shields.io/badge/public_repos-12-ffd700?style=flat-square)
 ![Location](https://img.shields.io/badge/📍_Goa,_India-333?style=flat-square)
 
 </div>
@@ -42,6 +42,7 @@ I don't just write code — I build **systems that make an impact**:
 - 🛡️ Weapon detection AI for real-time surveillance
 - 🚑 IoT platform that reduces ambulance response times
 - 🎤 AI interviewer that evaluates your answers with GPT-4o
+- ⚡ AI-powered coding interview platform with 50+ DSA problems
 - 👁️ Customer tracking that helps businesses grow
 
 > *"We have tomorrows for a reason"* — and I'm building them today.
@@ -85,6 +86,7 @@ I don't just write code — I build **systems that make an impact**:
 
 | Project | What it does | Stack |
 |:--------|:-------------|:------|
+| [**⚡ CodeQuest — Coding Interview Platform**](https://github.com/pranav24547/CodeQuest-AI-Powered-Coding-Interview-Platform) | AI-powered platform with 50 DSA problems, Monaco code editor, real-time execution, Gemini AI code review, resume-based mock interviews with scoring & evaluation. | `Next.js` `Express` `MongoDB` `Gemini AI` |
 | [**🍽️ Restaurant Management**](https://github.com/pranav24547/Restaurant-Management) | Table reservations with live color-coded availability, food ordering, auto-billing & checkout system. | `PHP` `MySQL` `HTML/CSS/JS` |
 | [**💊 Pharmacy Management**](https://github.com/pranav24547/Pharmacy-Management) | Role-based (Admin/Pharmacist) inventory system with smart sales, rack tracking, low-stock monitoring & supplier management. | `PHP` `MySQL` `Bootstrap` |
 
@@ -101,7 +103,7 @@ I don't just write code — I build **systems that make an impact**:
 ```
        ╭──────────────── AI / VISION ─────────────────╮
        │  YOLOv8  •  OpenCV  •  PyTorch  •  GPT-4o   │
-       │  TensorFlow  •  Whisper  •  LangChain        │
+       │  TensorFlow  •  Whisper  •  Gemini AI        │
        ╰──────────────────────────────────────────────╯
                           ▼
        ╭──────────────── IoT / HW ────────────────────╮
@@ -111,16 +113,16 @@ I don't just write code — I build **systems that make an impact**:
                           ▼
        ╭──────────────── BACKEND ─────────────────────╮
        │  FastAPI  •  Spring Boot  •  Node.js         │
-       │  WebSockets  •  REST  •  gRPC                │
+       │  Express  •  WebSockets  •  REST  •  gRPC    │
        ╰──────────────────────────────────────────────╯
                           ▼
        ╭──────────────── FRONTEND ────────────────────╮
-       │  React  •  HTML/CSS/JS  •  Bootstrap         │
-       │  Chart.js  •  Responsive Design              │
+       │  React  •  Next.js  •  HTML/CSS/JS           │
+       │  Monaco Editor  •  Bootstrap  •  Chart.js    │
        ╰──────────────────────────────────────────────╯
                           ▼
        ╭──────────────── DATA / DEVOPS ───────────────╮
-       │  MySQL  •  PostgreSQL  •  SQLite             │
+       │  MongoDB  •  MySQL  •  PostgreSQL  •  SQLite │
        │  Docker  •  Git  •  Linux  •  Postman        │
        ╰──────────────────────────────────────────────╯
 ```
