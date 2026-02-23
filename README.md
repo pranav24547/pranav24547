@@ -147,19 +147,19 @@ I don't just write code — I build **systems that make an impact**:
 <div align="center">
 
 <a href="https://github.com/pranav24547">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranav24547&theme=radical" alt="Pranav's GitHub Stats"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranav24547&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranav24547&theme=radical&v=20260224" alt="Pranav's GitHub Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranav24547&theme=radical&v=20260224" alt="Top Languages"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/pranav24547">
-  <img src="https://streak-stats.demolab.com/?user=pranav24547&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=pranav24547&theme=radical&hide_border=true&v=20260224" alt="GitHub Streak"/>
 </a>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav24547&theme=radical" alt="Contribution Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav24547&theme=radical&v=20260224" alt="Contribution Graph"/>
 
 </div>
 
