@@ -95,6 +95,9 @@ I don't just write code — I build **systems that make an impact**:
 ---
 
 <!-- ─── SKILLS ──────────────────────────────────────────────────── -->
+## 🏆 Achievements
+
+[![Layer5 Design Pioneer](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://cloud.layer5.io/user/d8bea704-d49b-4996-aa51-d23573848652?tab=badges&badge=first-design)
 
 ## ⚙️ Skills & Tools
 
